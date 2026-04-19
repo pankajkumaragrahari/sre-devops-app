@@ -199,7 +199,7 @@ Designed and implemented an end-to-end cloud-native platform using Terraform, AW
 ## 👤 Author
 
 **Pankaj Kumar Agrahari**
-Senior SRE | DevOps Engineer | Kubernetes | AWS | OCI
+Principal SRE | DevOps Architect | Cloud Architect | Kubernetes | AWS | OCI
 
 ---
 
